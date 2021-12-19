@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Mohammad Alkhufash mohammad@git.training
+	
 
 # THANKS
 
