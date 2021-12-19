@@ -8,9 +8,11 @@ This is an example to show different parts of the Git respository and various us
 
 ## Purpose 
 
+As mentioned before the main purpose to provide an example.
 
 ## Deployment
 
+This is a sample webproject
 
 ## Purpose
 
