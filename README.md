@@ -14,6 +14,10 @@ As mentioned before the main purpose to provide an example.
 
 This is a sample webproject
 
+## How To Contribute
+
+Please fork this repo and issue pull requests for review 
+
 ## Purpose
 
 Sample website with plenty of files for demos
