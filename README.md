@@ -17,3 +17,7 @@ This is a sample webproject
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+2021 Git.Training.
